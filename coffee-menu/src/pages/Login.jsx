@@ -40,7 +40,7 @@ export default function Login() {
       <div className="login-card animate-in">
 
         {/* Logo */}
-        <div className="logo">Brew &amp; Co</div>
+        <div className="logo">Moon &amp; Caffe</div>
         <div className="logo-sub">Admin Access</div>
 
         {/* Error */}
